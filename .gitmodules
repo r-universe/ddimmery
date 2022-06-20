@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "regweight"]
+	path = regweight
+	url = https://github.com/ddimmery/regweight
+	shallow = true
+	registered = true
